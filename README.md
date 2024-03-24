@@ -15,21 +15,10 @@ I'm a passionate software developer with a knack for building elegant solutions 
 - MongoDB | MySQL | Firebase
 - Git | GitHub | Docker
 
-## Projects
-### Project 1: [Project Name 1](https://github.com/your-username/project-name-1)
-![Project 1](https://project1-screenshot-url.com)
-
-Description of the project.
-
-### Project 2: [Project Name 2](https://github.com/your-username/project-name-2)
-![Project 2](https://project2-screenshot-url.com)
-
-Description of the project.
-
 ## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boughaniLabo&show_icons=true&theme=radical)
 
 ## Get in Touch
-- 📫 Email: your@email.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
+- 📫 Email: abdelghanii.demmouche.prof@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/dashboard/)
+- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/)
