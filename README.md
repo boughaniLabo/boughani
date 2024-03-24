@@ -11,7 +11,7 @@ I'm a passionate software developer with a knack for building elegant solutions 
 
 ## Skills
 - JavaScript | TypeScript | HTML | CSS
-- React | Angular | Node.js | Express.js
+- Angular | Node.js | Express.js
 - MongoDB | MySQL | Firebase
 - Git | GitHub | Docker
 
@@ -27,7 +27,7 @@ Description of the project.
 Description of the project.
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boughaniLabo&show_icons=true&theme=radical)
 
 ## Get in Touch
 - 📫 Email: your@email.com
