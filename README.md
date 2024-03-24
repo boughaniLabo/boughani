@@ -20,5 +20,5 @@ I'm a passionate software developer with a knack for building elegant solutions 
 
 ## Get in Touch
 - 📫 Email: abdelghanii.demmouche.prof@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/dashboard/)
-- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/)
+- 💼 LinkedIn: [Abdelghani Demmouche](https://www.linkedin.com/dashboard/)
+- 🐦 Twitter: [Abdelghani Demmouche](https://twitter.com/)
