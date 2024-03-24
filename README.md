@@ -10,9 +10,9 @@ I'm a passionate software developer with a knack for building elegant solutions 
 - 🌱 Always learning and exploring new technologies
 
 ## Skills
-- JavaScript | TypeScript | HTML | CSS
-- Angular | Node.js | Express.js
-- MongoDB | MySQL | Firebase
+- JavaScript | TypeScript | HTML | CSS | PHP 
+- Angular | Node.js | Express.js |LARAVEL
+- MySQL | Firebase
 - Git | GitHub | Docker
 
 ## GitHub Statistics
